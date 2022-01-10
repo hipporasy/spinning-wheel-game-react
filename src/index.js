@@ -28,7 +28,7 @@ export class App extends React.Component {
   render() {
     return (
       <div className="App">
-        <h1>What should you eat today?</h1>
+        <h1>Ready to win something?</h1>
         <Wheel items={this.places} />
       </div>
     );
