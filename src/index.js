@@ -8,7 +8,21 @@ import './styles.css';
 export class App extends React.Component {
   constructor() {
     super();
-    this.places = ['Pizzas', 'Sandwiches', 'Salads', 'Soup', 'Japanese food', 'Pastas'];
+    this.places = [
+      'Thank You',
+      'Wristband',
+      'Thank You',
+      'Wonderpass Tag',
+      'Thank You',
+      'Jeep 10%',
+      'Thank You',
+      'Apopo 1 ticket',
+      'Thank You',
+      'Japanese food',
+      'Thank You',
+      'Pastas',
+      'Thank You',
+    ];
   }
 
   render() {
