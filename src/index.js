@@ -9,19 +9,12 @@ export class App extends React.Component {
   constructor() {
     super();
     this.places = [
-      'Quad Bike 10% ',
-      'Wristband',
-      'JP Prana',
-      'Vanh Angkor',
-      'La Residence WatBo',
-      'Little Prince \n Resort & Spa',
-      'Thank You',
-      'Petit Villa \n Boutique & Spa',
-      'Jeep (10%)',
-      'APOPO 1 Ticket',
-      'Phare Cambodian Circus',
-      'Wonderpass Tag',
-      'Royal Archery Club',
+      'សារមន្ទីរ ព្រះស្រីឦសានវរ្ម័ន Preah Srey Içanavarman Museum - Sosoro Museum​​ 80%',
+      'Chit Chat Café 122 30%',
+      'សៀវភៅជីវិត 20%',
+      'Eung Eng Kruy Phone Shop 5%',
+      'Yumi បាញ់ក្ដាម 20%',
+      'TenZero 35% ',
     ];
   }
 
